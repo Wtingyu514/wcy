@@ -130,11 +130,11 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./svg/LeetCode.svg","https://leetcode-cn.com/u/happysnaker/","我的力扣主页"],
-        ["./svg/github.svg", "https://github.com/happysnaker", "我的GitHub主页"],
-        ["./svg/博客.svg", "http://1.15.234.109:8000", "我的个人博客"],
-        ["./svg/掘金.svg", "https://juejin.cn/user/3853167638625000", "我的掘金主页"],
-        ["./svg/知乎.svg", "https://www.zhihu.com/people/tian-xia-you-dao-81", "我的知乎主页"]
+        ["./svg/LeetCode.svg","我的力扣主页"],
+        ["./svg/github.svg", "https://github.com/Wtingyu514", "我的GitHub主页"],
+        ["./svg/博客.svg",  "我的个人博客"],
+        ["./svg/掘金.svg", "我的掘金主页"],
+        ["./svg/知乎.svg", "https://wtingyu514.github.io/wcy/", "我的知乎主页"]
     ],
 
 
